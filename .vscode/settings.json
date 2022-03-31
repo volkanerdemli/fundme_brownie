@@ -1,0 +1,4 @@
+{
+    "solidity.defaultCompiler": "remote",
+    "python.pythonPath": "/usr/local/bin/python3"
+}
